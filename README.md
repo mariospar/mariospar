@@ -20,7 +20,9 @@
 
 <br>
 
-![snake gif](https://github.com/mariospar/mariospar/blob/output/github-contribution-grid-snake.gif)
+![GitHub Snake dark](https://raw.githubusercontent.com/mariospar/mariospar/ce01e72c2de1176737d8eb6c6c031317bad3c7d6/github-snake-dark.svg)
+
+![snake gif](https://github.com/mariospar/mariospar/blob/output/ocean.gif)
 
 <br>
 <h3 align="left">Connect with me:</h3>
