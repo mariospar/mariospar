@@ -6,9 +6,9 @@
 
 <h3 align="center">I am a Chemical Engineering student with a passion for web development 🌐. I enjoy playing the guitar 🎸, watching movies 🎬, and travelling ✈ in my free time. I am always looking for new opportunities to learn and grow my skills.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mariospar&label=Profile%20views&color=ff69b4&style=flat-square	" alt="mariospar"/></p>
+<img align="center" src="https://komarev.com/ghpvc/?username=mariospar&label=Profile%20views&color=ff69b4&style=flat-square" alt="mariospar"/>
 
-<div style="display: flex; align-items: center; justify-content: center;"><img align="center" style="display: block;" src="https://media.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif" height="200" width="240" alt="mariospar" /></div><br>
+<img align="center" style="padding-top: 20px;" src="https://media.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif" height="200" width="240" alt="mariospar" /><br>
 
 - 🔭 I'm currently working on **Vader Project (API of the Board of European Students of Technology)**
 
@@ -38,7 +38,8 @@
 <br>
 <br>
 <div style="width: 100%;"><a href="https://github.com/mariospar">
-<a href="https://github.com/mariospar?tab=repositories">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/mariospar?tab=repositories">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariospar&theme=dracula&layout=compact&border_radius=10&hide_border=true" alt="mariospar's Top Languages"/>
 </a>
 </div>
