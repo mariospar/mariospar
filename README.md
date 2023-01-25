@@ -20,9 +20,9 @@
 
 <br>
 
-![GitHub Snake dark](https://raw.githubusercontent.com/mariospar/mariospar/ce01e72c2de1176737d8eb6c6c031317bad3c7d6/github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake dark](https://raw.githubusercontent.com/mariospar/mariospar/output/github-snake-dark.svg#gh-dark-mode-only)
 
-![GitHub Snake light](https://raw.githubusercontent.com/mariospar/mariospar/ce01e72c2de1176737d8eb6c6c031317bad3c7d6/ocean.gif#gh-light-mode-only)
+![GitHub Snake light](https://raw.githubusercontent.com/mariospar/mariospar/output/ocean.gif#gh-light-mode-only)
 
 
 <br>
